@@ -1,5 +1,5 @@
 # Lightning Blackjack Strategy
-A simple program created using the [Lightning Blackjack strategy](https://static.egcdn.com/frontend/evo/r2/optimalLightningBlackjackStrategy.html?gameType=lightningscalablebj&lang=en#openMenu) provided by Evolution. This must be used if you want to play at the displayed RTP of 99.56%, although it is much more complicated than basic strategy.
+A simple program created using the [Lightning Blackjack strategy](https://static.egcdn.com/frontend/evo/r2/optimalLightningBlackjackStrategy.html?gameType=lightningscalablebj&lang=en#openMenu) provided by Evolution. This must be used if you want to play at the published RTP of 99.56%, although it is much more complicated than basic strategy.
 
 For each round:
 - Enter the multiplier you would receive for a Blackjack. Each board has a unique multiplier for this.
