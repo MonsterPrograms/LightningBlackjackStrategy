@@ -1,0 +1,9 @@
+C:\Users\monst\source\repos\LightningBlackjackStrategy\LightningBlackjackStrategy\bin\Debug\LightningBlackjackStrategy.exe.config
+C:\Users\monst\source\repos\LightningBlackjackStrategy\LightningBlackjackStrategy\bin\Debug\LightningBlackjackStrategy.exe
+C:\Users\monst\source\repos\LightningBlackjackStrategy\LightningBlackjackStrategy\bin\Debug\LightningBlackjackStrategy.pdb
+C:\Users\monst\source\repos\LightningBlackjackStrategy\LightningBlackjackStrategy\obj\Debug\LightningBlackjackStrategy.MainForm.resources
+C:\Users\monst\source\repos\LightningBlackjackStrategy\LightningBlackjackStrategy\obj\Debug\LightningBlackjackStrategy.Properties.Resources.resources
+C:\Users\monst\source\repos\LightningBlackjackStrategy\LightningBlackjackStrategy\obj\Debug\LightningBlackjackStrategy.csproj.GenerateResource.cache
+C:\Users\monst\source\repos\LightningBlackjackStrategy\LightningBlackjackStrategy\obj\Debug\LightningBlackjackStrategy.csproj.CoreCompileInputs.cache
+C:\Users\monst\source\repos\LightningBlackjackStrategy\LightningBlackjackStrategy\obj\Debug\LightningBlackjackStrategy.exe
+C:\Users\monst\source\repos\LightningBlackjackStrategy\LightningBlackjackStrategy\obj\Debug\LightningBlackjackStrategy.pdb
